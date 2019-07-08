@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/itchyny/volume-go"
+	"github.com/amitbet/volume-go"
 )
 
 func TestMain(m *testing.M) {
