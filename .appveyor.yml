@@ -1,6 +1,6 @@
 version: "{build}"
 
-clone_folder: c:\gopath\src\github.com\itchyny\volume-go
+clone_folder: c:\gopath\src\github.com\amitbet\volume-go
 
 environment:
   GOPATH: c:\gopath
